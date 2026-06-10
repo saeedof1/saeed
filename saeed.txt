@@ -1,2 +1,1783 @@
-s1
-s2
+⁪
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#[75292] - Telegram : @V2All
+⁪
+⁪
+
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#[75293] - Telegram : @V2All
+
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#[75294] - Telegram : @V2All
+
+ هگست در ادامه:
+
+ایالات متحده تأسیسات اصلی در ایران را بمباران خواهد کرد. حملاتی که امشب رخ خواهد داد، شدید و آشکار خواهند بود.
+
+➣ @Merlin_ViP | اینترنت آزاد
+
+💡 راه میانبر: این کادر رو اصلاً باز نکن! کل پیام رو کپی کن، برو تو v2ray، دکمه مثبت (➕) رو بزن و Import configs from clipboard رو انتخاب کن. همه‌ی کانفیگ‌ها یه جا میاد تو برنامه‌ت! ✌️
+
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@5.42.126.157:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fi.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#📡 @v2ray_Dalghak
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🏍️ @v2ray_Dalghak
+
+vless://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hello.aihoshbartar.ir#🎪 @v2ray_Dalghak
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&allowInsecure=0#🎩 @v2ray_Dalghak
+
+vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#🤹‍♀️ @v2ray_Dalghak
+
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@213.109.202.159:2096?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality#🎡 @v2ray_Dalghak
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjExNSIsICJhaWQiOiAwLCAiaG9zdCI6ICJobXMwMi5meGlhb21pLnNicyIsICJpZCI6ICI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzZFx1ZGQwYiBAdjJyYXlfRGFsZ2hhayIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyJ9
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjkuMjM2IiwgImFpZCI6IDAsICJob3N0IjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAiaWQiOiAiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGY4OSBAdjJyYXlfRGFsZ2hhayIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjk0LjE2OCIsICJhaWQiOiAwLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmYzYgQHYycmF5X0RhbGdoYWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjk0LjY0IiwgImFpZCI6IDAsICJob3N0IjogImxpbmphMDUuaHdjYXIuc2JzIiwgImlkIjogIjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmYTkgQHYycmF5X0RhbGdoYWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibGluamEwNS5od2Nhci5zYnMifQ==
+
+✅🤡دلقک ۲۴ ساعته کانفیگ v2ray میفرسته. حجم کانفیگ ها زیاده چون سرعت فیلترینگ شدیده. کافیه چند وقتی یبار همه‌ی پیام هارو کپی و اد کنید توی نرم افزار. بعد تست بگیرید و اونایی که کار میکنن رو نگه دارید
+    @v2ray_Dalghak
+
+وزیر جنگ آمریکا: عاقلانه نیست که ایران اجازه داشته باشه بیشتر از این مارو به چالش بکشونه!
+@blackKHABAR
+
+کانفیگ open vpn 😈
+
+دانلود فایل برنامه open vpn
+
+حتما آپدیت کنید از گوگل پلی ❤️‍🔥
+
+خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+
+🚨🔴فوری-خبرهایی از حمله قریب الوقوع  امشب به ایران است
+
+وزیر هگزت می‌گوید پس از آنکه پرزیدنت ترامپ گفت ایالات متحده به حمله به ایران ادامه خواهد داد، ستاد مرکزی ارتش امشب مشغول خواهد بود.
+
+🚨🚨فوری
+
+پیت هگستث:
+
+حملات به ایران که امشب رخ خواهد داد، واضح و قوی خواهند بود.
+
+اگر فردا شب رخ دهند، قوی و واضح خواهند بود.
+
+در تمام این مدت، ایران فرصتی برای انجام معامله دارد. این نکته اصلی است.
+
+مناطقی
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#@freenettir
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#@freenettir
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@freenettir
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@freenettir
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&fp=safari&headerType=none#@freenettir
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#@freenettir
+
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#@freenettir
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@freenettir
+
+🔈 More Configs : @freenettir
+🔈 Channel Guide : https://zil.ink/v2rayguid
+🔈 More channels : https://zil.ink/fullcolorfull
+
+#کانفیگ
+#کانفیگ_v2ray 
+وصل شدی 👍 وصل نشدی 👎
+ری اکشن فراموش نشه
+
+پیت هگست:
+«ایران هنوز این فرصت را دارد که یک توافق عالی انجام دهد، اما حاضر به این کار نشده است.
+بمب‌ها به‌صورت مداوم و پیاپی ("tap, tap, tap") از سوی آمریکا بر تأسیسات کلیدی ایران فرود خواهند آمد. هدف از این حملات، ازسرگیری جنگ نیست، بلکه تعیین شرایط و چارچوب یک توافق است.»
+این مضمون با اظهارات دیگری که به هگست نسبت داده شده و در آن گفته بود آمریکا در صورت نپذیرفتن توافق از سوی ایران، به محاصره و بمباران زیرساخت‌ها و تأسیسات ادامه خواهد داد، هم‌راستا است. 
+@blackKHABAR
+
+🔴پیت هگست ؛وزیر جنگ آمریکا: 
+سنتکام امشب شلوغ خواهد بود چون ترامپ گفته که به ایران ضربه سختی خواهیم زد.
+
+➣ @Merlin_ViP | اینترنت آزاد
+
+🚨🚨🚨پیت هگست: امشب شب شلوغی خواهد بود، سنتکام تاسیسات ایران را بمباران خواهد کرد
+
+های های.  اونایی که اشتراک دارن غمتون نباشه   در یه صورت قطع میشین که اینترنت رو کلا قطع کنن  ک سلطان سوپر اپ ربیکا هم باز نشه
+
+MTP #Proxy:
+
+در صورت اتصال لایک و شیر کنید
+🔗@DailyV2Proxy
+
+🔥فیلترشکن پرسرعت و رایگان اسگارد 
+• نسخه 3.0
+
+متصل با همه اپراتورها
+
+
+✅کاملا رایگان 
+✅بدون قطعی
+✅بدون محدودیت حجمی 
+
+
+دانلود مستقیم از فروشگاه گوگل پلی👇🏼
+
+https://play.google.com/store/apps/details?id=com.vpn.esgard
+
+مناطقی
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#@meliproxyy
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#@meliproxyy
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@meliproxyy
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@meliproxyy
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&fp=safari&headerType=none#@meliproxyy
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#@meliproxyy
+
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#@meliproxyy
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#@meliproxyy
+
+⭕️فوری پیت هگست:
+
+⚜️سنتکام امشب سر شلوغی خواهد داشت زیرا ترامپ گفته است که ما به ایران ضربه سختی خواهیم زد، و این کار را خواهیم کرد.
+✒️#LT
+🚀 @HopeVPN
+
+پیت هگست، وزیر جنگ آمریکا:
+«فرماندهی مرکزی آمریکا (CENTCOM) امشب بسیار مشغول خواهد بود. امشب ضربات سختی به ایران وارد خواهیم کرد. ما تأسیسات کلیدی در ایران را بمباران خواهیم کرد. حملاتی که امشب انجام خواهد شد، قوی و روشن (قاطع) خواهند بود.»
+@blackKHABAR
+
+❗️دیگه حتی پمپ‌ بنزینا هم با حرفای ترامپ شلوغ نمیشن.
+
+
+
+پروکسی
+🆔 @ProxyHagh ☜
+
+ترامپ برای سخنرانی ویژه‌‌ ای که تا یکی دوساعت دیگر دارد، در شبکه اجتماعی نوشته: به همه پیشنهاد میکنم امشب تلویزیون رو روشن کنید.
+
+پروکسی 
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+🔥 @iRoProxy
+
+وزیر جنگ آمریکا اعلام کرد که ایالات متحده امشب به ایران حمله خواهد کرد.
+@blackKHABAR
+
+🛜 آپتل - کد تخفیف 💯
+
+در مرحله خرید، کد دعوت را وارد کنید
+Aptel-1460682486
+
+☝️ تحویل از نمایندگی برای حذف هزینه پست.
+
+لینک خرید: https://aptel.ir/prenormal
+یا از طریق اپلیکیشن آپ.
+
+📡قابلیت سوییچ بین اپراتورها: امکان انتخاب اپراتوری که در منطقه شما آنتن‌دهی بهتری دارد تا از بالاترین سرعت استفاده کنید.
+
+@V2raysCollector
+
+⁪
+📌 سرور اول :
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#[75292] - Telegram : @V2All
+⁪
+📌 سرور دوم :⁪
+
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#[75293] - Telegram : @V2All
+⁪
+📌 سرور سوم :
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#[75294] - Telegram : @V2All
+
+
+💵 آخرین قیمت دلار 👈 ۱۷۹,۰۰۰ تومان
+
+✅ مخزن سرورها‌ : V2All@
+⁪
+#v2ray #proxy #دلار⁪⁪
+⁪
+
+🚨پیت هگست: امشب شب شلوغی خواهد بود، سنتکام تاسیسات ایران را بمباران خواهد کرد
+
+این خبر از ترامپ که داره وایرال میشه گویا فیکه.
+
+دنبال کانفیگ پرسرعت و رایگان می‌گردی؟ 🤔
+​به جای اینکه کل تلگرام رو زیر و رو کنی، وارد ربات زیر شو و در کمتر از ۳ ثانیه، قوی‌ترین کانفیگ‌های روز رو تحویل بگیر:
+​🔹 رایگانِ رایگان، بدون محدودیت
+🔹 مخصوص تمام اپراتورها (همراه اول، ایرانسل، مخابرات)
+🔹 پینگ پایین برای گیمرها
+​⚡️ کلیک کن و کانفیگ اختصاصیت رو بگیر:
+🆔 @V2Ray_Hub12bot
+
+پیت هگست:
+«ما نیازی به شروع دوباره نداریم. موضوع این است که ما در حال انجام آن هستیم؛ وزارت جنگ آماده است تا شرایط را تعیین کند تا اطمینان حاصل شود که ما به همان نوع توافقی برسیم که رئیس‌جمهور ترامپ انتظار دارد.»
+@blackKHABAR
+
+💡 راه میانبر: این کادر رو اصلاً باز نکن! کل پیام رو کپی کن، برو تو v2ray، دکمه مثبت (➕) رو بزن و Import configs from clipboard رو انتخاب کن. همه‌ی کانفیگ‌ها یه جا میاد تو برنامه‌ت! ✌️
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&allowInsecure=0#🌪️ @v2ray_Dalghak
+
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#🎀 @v2ray_Dalghak
+
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#🥇 @v2ray_Dalghak
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@51.89.47.37:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🤹‍♂️ @v2ray_Dalghak
+
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&type=ws&path=%2F&host=128.204.223.94#🏆 @v2ray_Dalghak
+
+vless://347a56c2-a453-4b32-86cd-7522943df88c@104.165.244.183:50095?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.jsdelivr.net&fp=chrome&allowInsecure=1&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=f2e1861359398ff2&flow=xtls-rprx-vision#✈️ @v2ray_Dalghak
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjk1LjE2IiwgImFpZCI6IDAsICJob3N0IjogImhtczAzLmRvbmdmZW5nLmNmZCIsICJpZCI6ICJmYTViNTVjZC1jYWZjLTRkZTAtYTRjOC03MjJlMDJhOWY1OGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjgwIEB2MnJheV9EYWxnaGFrIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTA0LjI0LjEuNjkiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3d3dy40MjA3NzIzMC54eXovcGF0aC8xNjgzNjI5MzE0OTE1IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRjZTEgQHYycmF5X0RhbGdoYWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+vmess://eyJhZGQiOiAiMTA0LjI0LjE0NS40MyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZWU5XHVmZTBmIEB2MnJheV9EYWxnaGFrIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTA0LjI0LjE2MS4xMjMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3NzNTEwNjgiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzZVx1ZGU4NCBAdjJyYXlfRGFsZ2hhayIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+✅🤡دلقک ۲۴ ساعته کانفیگ v2ray میفرسته. حجم کانفیگ ها زیاده چون سرعت فیلترینگ شدیده. کافیه چند وقتی یبار همه‌ی پیام هارو کپی و اد کنید توی نرم افزار. بعد تست بگیرید و اونایی که کار میکنن رو نگه دارید
+    @v2ray_Dalghak
+
+🔴 فوری، هگست وزیر جنگ آمریکا: سنتکام امشب به شدت مشغول خواهد بود چونکه ترامپ گفته به ایران ضربه سختی می‌زنیم.
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@213.202.223.72:443?security=reality&encryption=none&pbk=gch4w4OXSvfllKqDfUuk4S-waCqmPfKvLaqnu0qKkiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=5eb59ee7bbb4b114#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+
+Cᴏᴜɴᴛʀʏ: #Germany(🇩🇪)
+Pɪɴɢ: 368ms 🟡
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+شبکه سه بزن تو
+
+نگف کدوم شبکه؟
+
+🔴فوری/ترامپ : به همه پیشنهاد میکنم امشب تلویزیون رو روشن کنن ( یک ساعت و نیم دیگه )
+
+🔴ترامپ : به همه پیشنهاد میکنم امشب تلویزیون رو روشن کنن ( یک ساعت دیگه )
+
+دیگه حتی پمپ‌ بنزینا هم با حرفای ترامپ شلوغ نمیشن.
+
+پروکسی | پروکسی •
+پروکسی | پروکسی  •
+پروکسی  •
+پروکسی  •
+پروکسی  •
+_
+🥀 @iProxy
+
+🔻تو این شرایط بازار دلیلی نمیبینم که از اعضا برای ورود به VIP پول بگیرم
+
+لینک ورود : https://t.me/addlist/b9NAoJFF98ExM2E0
+.
+
+🔻تو این شرایط بازار دلیلی نمیبینم که از اعضا برای ورود به VIP پول بگیرم
+
+لینک ورود : https://t.me/addlist/b9NAoJFF98ExM2E0
+.
+
+🔴ترامپ : به همه پیشنهاد میکنم امشب تلویزیون رو روشن کنن ( یک ساعت دیگه )
+
+
+پروکسی | پروکسی  •
+پروکسی | پروکسی  •
+پروکسی  •
+پروکسی  •
+پروکسی  •
+_
+🥀 @iProxy
+
+👊
+
+VPN VPN VPN VPN 
+VPN VPN VPN VPN
+
+دیگه حتی پمپ‌ بنزینا هم با حرفای ترامپ شلوغ نمیشن.
+
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+📸 @Proxy_MeIi
+
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+
+Cᴏᴜɴᴛʀʏ: #Japan(🇯🇵)
+Pɪɴɢ: 63ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+اگر روزگار بر وفق مراد نیست، به آسمان بنگر؛ هیچ شبی آن‌قدر نمانده که صبح را از رسیدن بازدارد. زندگی، هر بار که گمان می‌کنی همه‌چیز پایان یافته، از دری دیگر آغاز می‌شود.
+
+پروکسی | پروکسی | پروکسی | پروکسی | پروکسی
+
+🔥مناسب همه نت ها
+
+vless://e30c66d8-725a-4bb6-9173-58b1769d9c6f@109.71.253.204:24758?mode=stream-one&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=www.speedtest.net&type=xhttp#Telergram%3A%20%40flyv2ray
+
+
+مهم : برای دانلود آخرین نسخه برنامه های اجرا کننده کانفینگها👈  ( کلیک کنید )
+
+🌟کانفینگ ها را با دوستان خود به اشتراک بگذارید👌
+
+@flyv2ray‌‌‌‌‌‌
+
+یکی ازم پرسید: 
+چطوری انقدر آرومی 
+انگار هیچی برات مهم نیست؟ 
+بهش گفتم: 
+همه چیزایی که ترسیده بودم سرم بیاد، 
+سرم اومد، دیگه نگران چی باشم؟
+
+
+پروکسی | پروکسی جدید
+
+🔥Config v2ray
+
+🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.nl.sdsl.globdal.fastldy.com.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#@VPNConnectd
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.de.ssl.global.fastly.co.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#@VPNConnectd
+
+vless://6f271143-69a3-402d-9403-dd9627b1a365@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#@VPNConnectd
+
+vless://b4dbdbf9-640e-4f66-a885-c5d308a73e79@enns1.vertatech.ir:7005?security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c#@VPNConnectd
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=
+1&sni=default.ssl.fastly.net#@VPNConnectd
+
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&encryption=none&extra=%7B%0A%20%20%22scMaxConcurrentPosts%22%20%3A%20100%2C%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%2030%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%201000000%0A%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#@VPNConnectd
+
+
+Channel | @VPNConnectd
+
+خبرنگار اکسیوس: ترامپ جلسه‌ای در اتاق وضعیت در مورد گزینه‌های حمله به ایران برگزار کرد.
+@blackKHABAR
+
+منی که میدونم ۱ ساعت بعد ترامپ اعلام میکنه داداشی شدیم ولی نمیتونم ثابت کنم
+
+➣ @Merlin_ViP | اینترنت آزاد
+
+هواپیما سوخت رسان KC-46 آمریکا حرکت نبض رو دستگاه رو انجام میده
+به سمت ایرانه
+flightradar24.com
+از رو نقشه ببینیدش😁
+
+حاجی پشمام معدن پول از دارک وب رو برات پیدا کردم 
+
+https://t.me/+lCR7HeYTU15iNjM0
+
+🙂همه شنیدید  --> ترامپ قمار باز <-- 
+
+میدونی سرمایه چند صد ملیون دلاری ترامپ از شرط بندی چطور جمع شده ⁉️
+
+✔️من بهت نه چیزی میخوام بفروشم نه پولی ازت میگیرم من بهت پول دراوردن رو رایگان آموزش میدم 
+
+https://t.me/+lCR7HeYTU15iNjM0
+https://t.me/+lCR7HeYTU15iNjM0
+
+کافیه تو کانال بالا عضو بشی 🔥🅰20
+
+وزیر جنگ آمریک به سربازای سنتکام:
+همونطور که ترامپ امروز گفت، ایرانیا قرار نیست توافق بکنن، پس ما بهشون ضربه سختی میزنیم
+@blackKHABAR
+
+رسانه های اسرائیلی: ترامپ خبر از حمله بزرگ طی ساعات آینده به ایران داده است ٫ ارتش اسراییل اماده شده است.
+@blackKHABAR
+
+⚡️ Config 𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹
+
+Traffic : Unlimited 
+Location : Random
+Protocol : NV
+————————————
+- جهت اتصال 10-20 ثانیه صبر کنید
+
+دانلود نپسترنت اندروید
+دانلود نپسترنت ایفون
+
+Channel | @VPNConnectd
+
+00:00❤️
+
+پروکسی | پروکسی | پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی | پروکسی 
+پروکسی | پروکسی | پروکسی
+
+☑️ @DarkProxy
+
+📶 High Speed MTProto Proxy
+
+
+       ▶️ Connect Proxy ◀️
+
+       ▶️ Connect Proxy ◀️
+
+
+⚡@MTProTel⚡
+
+یک منبع پاکستانی به العربیه گفته که ایران و ایالات متحده همچنان بر سر توافق صلح فاصله زیادی با یکدیگر دارند و انتظار نمی‌رود پیشرفتی اساسی یا توافقی حاصل شود.
+@blackKHABAR
+
+درحال شارژ نامحدود
+
+Server: jet.quickrouteapp.xyz
+Port: 8443
+Secret: eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a
+@ProxyMTProto
+
+اکسیوس:
+ یکی از گزینه‌های روی میز، یه عملیات نظامی گسترده اما کوتاه‌مدته 
+هدفش هم اینه که ایران رو تحت فشار بذارن تا توی مذاکرات موضعش رو تغییر بده.
+@blackKHABAR
+
+🚨وزیر جنگ آمریکا پیت هگست به سربازای سنتکام: همونطور که ترامپ امروز گفت، ایرانیا قرار نیست توافق بکنن، پس ما بهشون ضربه سختی میزنیم
+
+وزیر جنگ آمریکا: اگر ایران با توافقی برای پایان دادن به درگیری موافقت نکند، به شدت به آن حمله خواهیم کرد.
+
+پروکسی | پروکسی  •
+پروکسی | پروکسی  •
+پروکسی  •
+پروکسی  •
+پروکسی  •
+_
+🥀 @iProxy
+
+🚨فوررری از اکسسیوس : 
+
+ ترامپ امروز صبح جلسه‌ای  با حضور  جی دی ونس، مارکو روبیو، وزیر امور خارجه، مدیر سیا، دن کین، رئیس ستاد مشترک ارتش، استیو ویتکاف،  با موضوع (عملیات نظامی در مقیاس بزرگ اما با مدت زمان محدود با هدف افزایش فشار بر تهران در طول مذاکرات جاری ) برگزار کرده.
+پروکسی | پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+Join For More ⬇️
+https://t.me/NetMeli9
+https://t.me/NetMeli9
+
+📹 آموزش ترکیب NipoVPN و V2rayNg
+
+🔺فایل NipoVPN
+♦️فایل اخرین نسخه V2rayNg
+🔻کانفیگ‌های مورد نیاز
+
+1■ کانفیگ Nipo رو اد کنید
+
+2■ وارد کلاینت V2rayNg سه خط بالا قسمت تنظیمات به تفکیک برنامه برید هر دو تیک رو بزنید بعد NipoVPN رو سرچ کنید تیکشو بزنید تا بای‌پس بشه
+
+3■ این پروکسی socks رو توی کلاینت V2rayNg اد کنید
+
+socks://Og@127.0.0.1:8080#Nipo
+
+4■ بعد اول به Nipo  بعد توی V2rayNg به همون کانفیگ پروکسی وصل شید
+
+5■ اگه فقط بخواهید حالت پروکسی وصل شید بزنید NipoVPN وصل شه بعد وارد تلگرام بشید رو این پروکسی بزنید وصل شید
+
+https://t.me/socks?server=127.0.0.1&port=8080
+
+کانفینگاش وصله:
+
+https://t.me/+DMDG_ThgW3k1YTdk
+
+منبع پاکستانی به الحدث: 
+
+ما امروز از امضای توافقنامه صلح، دور شده‌ایم.
+
+باراک راوید خبرنگار آکسیوس :
+
+رئیس جمهور ترامپ امشب (چهارشنبه) در اتاق وضعیت کاخ سفید جلسه‌ای برای بحث در مورد حملات احتمالی بیشتر علیه ایران برگزار کرد، تنها چند ساعت پس از آنکه به گفته دو منبع آمریکایی، ایالات متحده «امروز دوباره به آنها ضربه سختی خواهد زد».
+
+این منابع گفتند که یکی از گزینه‌هایی که ترامپ در نظر دارد، عملیاتی در مقیاس بزرگ اما کوتاه مدت است که با هدف فشار بر ایران برای تغییر موضع خود در مذاکرات انجام می‌شود. این منابع جزئیات بیشتری ارائه نکردند.
+
+🚨 فوری | آکسیوس به نقل از منابع: یکی از گزینه‌های ترامپ، آغاز عملیاتی کوتاه‌مدت و گسترده برای اعمال فشار بر ایران جهت تغییر موضعش در مذاکرات است.
+
+🚨 فوری | آکسیوس به نقل از منابع: ترامپ در حال برگزاری جلسه‌ای در اتاق وضعیت است تا گزینه‌های حمله جدید به ایران را بررسی کند.
+
+vmess://eyJhZGQiOiAiMjA2LjIzOC4yMzYuMzYiLCAiYWlkIjogMCwgImhvc3QiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwgInBvcnQiOiAyMDUyLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2In0=
+
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5MS4xNjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGdjZWZvbW4iLCAicG9ydCI6IDIwOTUsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkwek5TNHhPREV1TmpndU1qQTBMVEV3TVRNJTNEJnByb3RvcGFyYW09
+
+vmess://eyJhZGQiOiAiNDcuODguODkuMTA2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4NmY4ZjI1ZC05ZDI2LTQxYTYtYTc1Yi1lMGVmOTkyY2M3NGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3J4cnNPVW1OYnVUSkNrNGl6RkVIV3JiOXFtIiwgInBvcnQiOiA4MCwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+⚠️ Warning: Proxy may not work on all network operators.
+⏱ Please wait a few seconds after starting a proxy.
+🔰All the apps you need to use this proxy on different platforms
+
+Share the proxy with your friends to support the channel ✊🕊❤️‍🔥
+
+
+🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴
+
+💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!
+
+💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال
+
+🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!
+
+⚡️ تست فوری مخصوص عمده‌فروشان
+
+🎟 خرید و تست رایگان کانفیگ:
+
+➖➖➖➖➖➖➖➖
+#WomenLifeFreedom
+#MahsaAmini 
+#FREEDOM
+➖➖➖➖➖➖➖➖
+@Hope_Net 🤞
+
+vmess://eyJhZGQiOiAiMTU0LjkyLjkuMTc3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2JsdWUiLCAicG9ydCI6IDgwLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+ssr://Y2RuMDEuMjVrMmw4Lm1laXR1YW44OC5jb206MjExMDphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTpwbGFpbjpaR2t4TlZCVy8/b2Jmc3BhcmFtPU16RmtOREV5TnpVM0xtUnZkWGxwYmk1amIyMCUzRCZyZW1hcmtzPThKJTJCSHJmQ2ZoN0JJU3kwME15NHlOVFV1TVRFNUxqSXhMVFEwT0RFJTNEJnByb3RvcGFyYW09
+
+vmess://eyJhZGQiOiAidjAyLmd1dGluZ3RpbmcuY29tIiwgImFpZCI6IDAsICJob3N0IjogInYwMi5ndXRpbmd0aW5nLmNvbSIsICJpZCI6ICJkM2Q5MDk5OC03YmZkLTRmYzYtOTMwZS0zNWJmOTYwODNkOGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FjZWFtZWR2IiwgInBvcnQiOiAzMDA0MSwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInNoMDEuZmFzdGNsb3VkLmNsdWIifQ==
+
+vmess://eyJhZGQiOiAiMjAzLjIzLjEwNC4yNDIiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvP2VkPTIwNDgiLCAicG9ydCI6IDIwNTMsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+⚠️ Warning: Proxy may not work on all network operators.
+⏱ Please wait a few seconds after starting a proxy.
+🔰All the apps you need to use this proxy on different platforms
+
+Share the proxy with your friends to support the channel ✊🕊❤️‍🔥
+
+
+🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴
+
+💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!
+
+💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال
+
+🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!
+
+⚡️ تست فوری مخصوص عمده‌فروشان
+
+🎟 خرید و تست رایگان کانفیگ:
+
+➖➖➖➖➖➖➖➖
+#WomenLifeFreedom
+#MahsaAmini 
+#FREEDOM
+➖➖➖➖➖➖➖➖
+@Hope_Net 🤞
+
+🚨 فوری/ پیت هگست:
+همانطور که رئیس‌جمهور ترامپ امروز گفت، آنها معامله نخواهند کرد، پس ما به شدت به آنها ضربه خواهیم زد. سنتکام این کار را بسیار خوب انجام می‌دهد، بهتر از هر کس دیگری در جهان.
+
+جدی بگیرید بچه ها
+
+⏺ فوری،پیت هگست،وزیر جنگ آمریکا : همونطور که رئیس‌جمهور ترامپ امروز گفت،ایرانیا معامله نخواهند کرد،پس ما به شدت بهشون ضربه خواهیم زد.سنتکام این کارو عالی انجام میده.
+
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+📸 @Proxy_MeIi
+
+📱 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون
+
+Channel :  @ConfigX2ray 😀
+
+پلن نامحدود داره پر میشه خریدی داشتید از دست ندید و خریداتونو انجام بدید ❤️
+
+تمامی سرور ها در زمان ملی شدن نت هم وصل و پایدار خواهند ماند 🔥
+
+🇮🇷 کانفیگ ویتوری برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)⭐️
+
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.nl.sdsl.globdal.fastldy.com.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+🎖
+trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.de.ssl.global.fastly.co.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+🏅
+vless://6f271143-69a3-402d-9403-dd9627b1a365@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+🥉
+vless://b4dbdbf9-640e-4f66-a885-c5d308a73e79@enns1.vertatech.ir:7005?security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+🥈
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+🥇
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&encryption=none&extra=%7B%0A%20%20%22scMaxConcurrentPosts%22%20%3A%20100%2C%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%2030%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%201000000%0A%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+📲 دانلود و آموزش استفاده(کلیک کن) 👉
+
+
+⚡️ فیلترینگ شدید و نت ملی رو باهاش دور بزن !
+
+✅ @V2rayNGVPN
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+
+Cᴏᴜɴᴛʀʏ: #Germany(🇩🇪)
+Pɪɴɢ: 91ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+🚨ترامپ جلسه‌ای در اتاق وضعیت در مورد گزینه‌های حمله به ایران برگزار کرد.
+
+مشاور کنکور صدهزار تومنی:
+
+پروکسی | پروکسی | پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی | پروکسی 
+پروکسی | پروکسی
+
+🆔 @V2RayNG_Master پروکسی تلگرام
+
+کانفیگمون توی ربات اپلود شد
+کافیه وارد ربات @roshdcollection_bot 
+شوید و دریافت رو بزنید
+
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=random&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#%40proxy_kafee%20%20%F0%9F%8D%AD
+
+
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#%40proxy_kafee%20%F0%9F%90%A6
+
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#%40proxy_kafee%20%F0%9F%8C%B4
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#%40proxy_kafee%20%F0%9F%8D%87
+
+
+
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@hamrahaval.soft26.ir:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192&spx=%2Fil4uDVFQ4uJ9mPb#%40proxy_kafee%20%E2%AD%90
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40proxy_kafee%20%F0%9F%95%8A%EF%B8%8F
+#ویتوری #v2box 
+@proxy_kafee
+
+اسپویل امشب 
+ترامپ:
+    می‌خواستم امشب حمله کنم، ولی بهم خبر دادن ۶ روز دیگه محرمه. گفتم به عشق آقا امام حسین، فعلا کنسل. 
+    پنتاگون و هگست اصرار داشتن حمله کنیم. یک حمله قوی 
+من پرسیدم برنامه نذری‌ها چیه؟ وقتی توضیح دادن فهمیدم فرداش قیمه نذری میدن 
+گفتم عملیات تا اطلاع ثانوی تعلیق.
+با تشکر از توجه شما
+پ.دونالد جی ترامپ
+
+➣ @Merlin_ViP | اینترنت آزاد
+
+این زندگی در شان کسی که بچگی‌ لپ تاپ عمو فردوس داشت نیست.
+
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+📸 @Proxy_MeIi
+
+خاورمیانه جای عجیبیه .... مثل همیشه صحبت از جنگ هست
+خواستم یادآوری کنم که مثل قبل جنگ، اگه محدودیت سراسری رو اینترنت اعمال بشه، مثل دفعات قبل نمیدونیم در چه حد ممکنه باشه، چون هردفعه بدتر شده
+مثل جنگ خرداد ماه، دی ان اس عالی وصل بود، این سری کامل بستن
+و آی پی های سازمانی با قیمت فضایی به فروش رسید . . .
+نمیشه فهمید این دفعه به شکل هست.
+و این تانل هایی که الآن متصل شده، به احتمال زیاد مجدد دسترسیشون قطع میشه 
+
+پس بدونید تضمینی برای این شرایط نیست🙏🏻
+
+البته که مثل همیشه سعی میکنیم یه راهی برای بقا پیدا کنیم 😑
+
+🚨 فوری | وزیر دفاع آمریکا: اگر #ایران با توافق برای پایان دادن به درگیری موافقت نکند، به شدت به آن حمله خواهیم کرد.
+
+🕓 ٢٣:٣٣ (تهران) - ١٤٠٥/٠٣/٢٠
+
+کانال i24news :
+
+در حال حاضر جلسه‌ای در مقر فرماندهی مرکزی ایالات متحده (CENTCOM) در فلوریدا در حال برگزاری است که در آن پیت هگزت، وزیر دفاع ایالات متحده، و دریاسالار برد کوپر، فرمانده CENTCOM، حضور دارند.
+
+سفیر آمریکا در اسرائیل خبری از فاکس نیوز درباره اظهارات ترامپ که گفته بود آمریکا امشب به ایران حمله خواهد کرد، به اشتراک گذاشت و نوشت:
+
+«ممکن است اوضاع در منطقه به زودی کمی پرتنش شود.»
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&security=tls&type=tcp&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@Farah_VPN 🇬🇪
+
+Cᴏᴜɴᴛʀʏ: #Georgia(🇬🇪)
+Pɪɴɢ: 100ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+🤖 ربات دانلود سریع از اینستاگرام
+
+📍با استفاده از ربات زیر میتونید به راحتی و سریع ویدیو ها و پست های اینستاگرام رو دانلود و در تلگرام دریافت کنید👇
+
+@InstagramDownloaderKingBot
+
+🚨🚨باراک راوید خبرنگار آکسیوس:
+
+ممکن است مذاکرات در چند ساعت آینده کاملا فروبپاشد
+
+➣ @Merlin_ViP | اینترنت آزاد
+
+سرویس‌های تانل ایران  از نظر کیفیت، پایداری و تداوم اتصال عملکرد بسیار مطلوب‌تری دارند. این سرویس‌ها در شرایط عادی و حتی در بسیاری از محدودیت‌های اینترنتی، پایداری بالایی را حفظ می‌کنند و تنها در صورتی با اختلال جدی مواجه می‌شوند که ارتباطات بین‌المللی کشور به‌طور کامل قطع شده و عملاً هیچ مسیر دسترسی خارجی در دسترس نباشد.
+
+در مقابل، سرویس‌های مستقیم نیز از کیفیت مناسبی برخوردار هستند، اما در شرایطی مانند ملی‌شدن اینترنت یا اعمال محدودیت‌های گسترده بر ارتباطات بین‌المللی، احتمال قطعی یا کاهش پایداری آن‌ها بیشتر خواهد بود.
+
+با توجه به این موارد، در صورت اولویت داشتن پایداری و تداوم دسترسی، سرویس‌های تانل گزینه مطمئن‌تری محسوب می‌شوند.»
+
+ریات کانفیگ تاینو👇👇
+
+https://t.me/Outline_V2rayNG_bot
+
+انلاینید کانفیگ بزارم؟
+
+خبرنگار الجزیره: میانجی‌ گران قطری تهران رو ترک کردن
+@blackKHABAR
+
+کانادا و استرالیا از شهروندانشون خواستن ایرانو فورا ترک کنن
+@blackKHABAR
+
+🟢 کانفیگ NPV Tunnel (نپسترنت)
+
+☑️ تست شده و متصل 
+
+
+برنامه مورد نیاز :
+
+دانلود NPV Tunnel از گوگل پلی (اندروید)
+
+دانلود NPV Tunnel به صورت فایل (اندروید)
+
+دانلود NPV Tunnel از اپ استور (آیفون) 
+
+
+@vpnbaz
+
+کانال ۱۲ اسرائیل: در ساعات آینده ممکن است شعله های جنگ دوباره روشن بشه
+@blackKHABAR
+
+#فوری
+
+🔻آکسیوس:
+جنگ ممکن است ظرف 2 تا 3 ساعت آینده،
+آغاز شود.
+
+
+@TaynoVPN
+
+گزارش های تایید نشده از صدای انفجار در نجف آباد اصفهان 
+@blackKHABAR
+
+اینو  ببین چی نوشته 😐
+
+🚨  کاپ جام جهانی از سال ۱۹۷۰ شکل دیگه‌ای شده!
+
+🆔 @Ivaproxy
+
+ریدم صداش رو در نیارین
+
+آخرین نسخه اپ رو نصب کنید حتما
+با اینترنت های مختلف هم تست کنید لوکیشن سوئد
+حجم هزارگیگ
+شبتون بخیر ❤️
+قطع برای تغییرات ❌
+
+باراک راوید، خبرنگار اکسیوس:
+این احتمال وجود داره تا چند ساعت دیگه مذاکرات به فروپاشی کامل برسه
+چون به نظر میاد زدن پدافند و رادارهای ایران در چند روز گذشته توسط اسرائیل و آمریکا مقدمه ای برای دور بعدی جنگ باشه
+@blackKHABAR
+
+vmess://eyJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOiJjaHJvbWUiLCJob3N0IjpudWxsLCJpZCI6ImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjYwMDQsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+
+Cᴏᴜɴᴛʀʏ: #Singapore(🇸🇬)
+Pɪɴɢ: 170ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+New Warp+ keys
+
+🔐 Key: EeJF1942-0YcyQ576-6S8Xv93O (1923837100 GB)
+🔐 Key: 3vz02Ah8-y5Aw9N73-Ub436BE0 (1923837100 GB)
+🔐 Key: 74a9Oi8W-V49C5U7w-163fs5xz (1923837100 GB)
+🔐 Key: 4qB216sk-4Wnrk052-8s6ry2b4 (1923837100 GB)
+🔐 Key: x3nq5z47-23g5L4Vm-7OY60N8S (1923837100 GB)
+
+🎉 Share this bot and channel with your friends if you enjoy free keys!
+
+@warpplus · @generatewarpplusbot
+
+
+🔴 نسخه جدید فیلترشکن سایفون (اندروید)
+
+• نسخه 472   مود شده و بدون محدودیت
+
+
+با مخابرات مستقیم و بدون پروکسی وصله.
+سایر اینترنت‌ها خودتون تست کنید.
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&security=tls&type=tcp&flow=xtls-rprx-vision#🇬🇪 Join+Telegram:@Farah_VPN 🇬🇪
+
+Cᴏᴜɴᴛʀʏ: #Georgia(🇬🇪)
+Pɪɴɢ: 92ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+farivpn 
+
+
+mod✅
+
+fast✅
+
+@LIION_VPN
+
+vmess://eyJhZGQiOiIyMy4yMjYuMTM1LjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMjA2Njk2OC1lZjkwLTQ1NWUtYjk4MS00YmY3ODJkMjUzODYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NTMxMCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+Cᴏᴜɴᴛʀʏ: #UnitedStates(🇺🇸)
+Pɪɴɢ: 71ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+یکی اومده با  Claude Fable یه برنامه باحال نوشته که میاد پکت های شبکه رو به صورت ماشین نشون میده که توی اتوبان در حال حرکتن
+
+و هر پکتی یه ماشین مخصوص مثلا پکت های ssh تاکسین یا وقتی پینگ میگیرید ماشین پلیس رد میشه
+
+
+#Network | BijanBowen (@bijanbowen)
+@CleverDevs - @CleverDevsGp
+
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+
+Cᴏᴜɴᴛʀʏ: #UnitedStates(🇺🇸)
+Pɪɴɢ: 5ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SjRMckJxa3FDWWdHTU8wOFltbXNNalEzWk10SjdFeTZTeGZwZQ@5.34.177.228:41348#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+
+Cᴏᴜɴᴛʀʏ: #Singapore(🇸🇬)
+Pɪɴɢ: 23ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+کاسه صبرم
+
+پروکسی | پروکسی | پروکسی | پروکسی | پروکسی
+
+لیست جدید پروکسی متصل ✅
+
+https://t.me/proxy?server=87.248.129.235&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=176.65.138.99&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+🆔 @V2RayNG_Master پروکسی تلگرام
+
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:41943?security=tls&sni=az.01.naiun.bilibili.com#🇦🇿 Join+Telegram:@Farah_VPN 🇦🇿
+
+Cᴏᴜɴᴛʀʏ: #Azerbaijan(🇦🇿)
+Pɪɴɢ: 501ms 🔴
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+
+Cᴏᴜɴᴛʀʏ: #Canada(🇨🇦)
+Pɪɴɢ: 6ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+حق +
+
+پروکسی | پروکسی | پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی | پروکسی 
+پروکسی | پروکسی | پروکسی
+
+☑️ @DarkProxy
+
+🔁 [UPDATE] 🔁
+
+Grand Hotel Mania v4.18.8.2 MOD APK (Unlimited Money)
+
+Grand Hotel Mania creates a lot of idle money doing jobs for you in the hotel space. Meaningful activities will give you more experience and the opportunity to interact with many people. Besides, interesting stories about your life are also provided, and meetings and dealing with many friends are also interested. The most important task is still operating an extensive resort hotel system the way you want.
+
+Main Features
+- Publisher: DeusCraft
+- Version: 4.18.8.2
+- Size: 132M
+- Category: Adventure
+- MOD Info: Unlimited Money
+
+📥Download Now📥:
+https://modyolo.com/grand-hotel-mania.html
+
+در نهایت برد با پسریه که بوی “آینده“ بده، نه Dior sauvage.
+
+پروکسی |
+پروکسی | پروکسی | پروکسی |
+پروکسی | پروکسی | پروکسی |
+
+🆔 @Ivaproxy
+
+مناطقی
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmloud.com&allowinsecure=0&type=ws&sni=www.calmloud.com#@meliproxyy
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@meliproxyy
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&allowinsecure=1&type=tcp&sni=yahoo.com&sid=4f2087146c1f587a#@meliproxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@meliproxyy
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@meliproxyy
+
+Config npv♨️♨️
+
+برای دسترسی همیشگی، همراه ما باشید
+@vmessorg👨‍💻
+
+کانفیگ اختصی از ربات زیر 👇🏻
+@ogsvpnbot 🛒
+
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
+
+Cᴏᴜɴᴛʀʏ: #France(🇫🇷)
+Pɪɴɢ: 81ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+ترامپ رو باید ۲۴ ساعت بدی دست خواهران منصوریان.
+
+
+@TaynoVPN
+
+باید آزادی را همراه عدالت انتخاب کرد؛
+یکی بدون دیگری بی معناست!
+اگر کسی نان شما را بگیرد، آزادی شما را هم گرفته است و اگر کسی آزادی شما را برباید، مطمئن باشید که که نان شما نیز در معرض تهدید است!
+
+👤 آلبر کامو
+
+
+پروکسی
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+
+🌀 ربات کانفیگ VPN رایگان
+
+
+🎖 More Proxies : @Forall_Proxy
+
+جنگ میشه یا نه؟
+
+تو بحرین نشست یه سری منابع P8a هواپیمای شناسایی ذکر میکنن
+@blackKHABAR
+
+New Warp+ keys
+
+🔐 Key: 2t9m6I5V-836qhFE2-kN1293WZ (1923837100 GB)
+🔐 Key: F1Cw83m2-04ZWIn61-J6g41N2Y (1923837100 GB)
+🔐 Key: m8XJ642o-E8lTb935-B1846ARK (1923837100 GB)
+🔐 Key: 64T1Z5NX-BV451qc9-2a1Xn57H (1923837100 GB)
+🔐 Key: 25R8X3Qm-4K5t0C8L-0tD49oZ5 (1923837100 GB)
+
+✨ You can generate your own key in @generatewarpplusbot
+
+@warpplus · @generatewarpplusbot
+
+📍کانفیگ برنامه Open VPN Connect 
+
+🛜📶 تمامی نت‌ها
+📲 اندروید و ios
+❗️اگه وصل نشد چندبار retry بزنید حل میشه
+
+104.65.83.77
+104.65.83.3
+104.65.85.17
+104.65.80.248
+104.65.67.187
+104.65.64.93
+104.65.71.48
+104.65.100.128
+104.65.21.61
+104.65.64.53
+184.24.65.110
+184.24.197.45
+184.24.144.170
+184.24.54.215
+184.24.50.103
+184.24.237.92
+184.24.120.111
+184.24.51.119
+184.24.210.114
+184.24.192.163
+184.24.26.157
+184.24.137.30
+184.24.197.112
+184.24.100.203
+184.24.197.95
+184.24.144.222
+184.24.15.168
+184.24.49.125
+184.24.51.25
+104.65.64.221
+104.65.65.5
+104.65.64.102
+104.65.81.141
+104.65.64.195
+104.65.85.201
+104.65.83.96
+104.65.64.33
+104.65.66.140
+104.65.64.173
+104.65.85.218
+104.65.83.61
+104.65.80.111
+104.65.85.244
+104.65.81.109
+104.65.65.132
+104.65.86.35
+104.65.90.41
+104.65.85.172
+104.65.85.64
+5.160.13.85
+2.18.190.7
+142.54.178.211
+2.16.106.18
+23.205.49.151
+23.210.232.83
+23.218.61.69
+96.17.206.201
+2.21.2.64
+23.220.72.69
+2.21.2.43
+2.21.2.56
+104.103.72.50
+2.21.2.98
+23.60.189.39
+2.21.2.10
+2.21.2.67
+23.208.243.78
+2.16.6.28
+104.89.170.140
+162.159.81.132
+23.196.105.97
+2.16.16.185
+23.201.236.247
+2.17.106.5
+23.221.191.143
+92.123.128.176
+184.24.57.13
+23.214.209.120
+2.21.2.122
+2.16.1.152
+2.16.10.162
+23.78.62.233
+23.54.98.161
+2.16.1.147
+23.77.7.74
+96.16.248.146
+23.72.248.210
+184.26.3.238
+2.23.167.26
+23.201.234.189
+23.52.40.89
+96.16.248.159
+
+
+🗄🗄🗄🗄🗄🗄🗄🗄🗄🗄
+
+آیپی های تست شده برای متود جدید شیر خورشید ❤️ 
+
+همشو باهم وارد کنید داخل برنامه 🔥
+
+آموزش سایفون😟
+
+دانلود سایفون🦸‍♀️
+
+دانلود با نت داخلی😬
+
+برطرف کردن مشکل اتصال😒
+
+
+@proxy_kafee
+
+👑 اتصال با آپدیت جدید شیر و خورشید
+
+SNI:
+getbootstrap.com
+v16m-default.akamaized.net
+owasp.org
+store.steampowered.com
+tntransferpathway.org
+IPs:
+104.65.81.109
+104.65.65.132
+104.65.86.35
+104.65.90.41
+104.65.85.172
+104.65.85.64
+104.65.83.77
+104.65.83.3
+104.65.85.17
+104.65.80.248
+104.65.67.187
+104.65.64.93
+104.65.71.48
+104.65.100.128
+104.65.21.61
+104.65.64.53
+23.77.7.74
+92.123.128.176
+104.109.250.232
+92.123.106.90
+92.123.102.160
+104.103.72.80
+96.16.248.159
+104.89.170.140
+184.86.103.158
+104.126.37.176
+72.246.28.215
+23.73.2.75
+184.51.133.123
+88.221.168.204
+88.221.169.205
+96.16.122.137
+104.103.72.50
+23.72.248.210
+2.16.10.44
+2.16.2.194
+2.16.10.41
+2.16.33.154
+2.16.30.222
+2.16.30.238
+2.16.30.226
+2.16.30.225
+2.16.30.230
+2.16.30.239
+104.65.64.221
+104.65.65.5
+104.65.64.102
+104.65.81.141
+104.65.64.195
+104.65.85.201
+104.65.83.96
+104.65.64.33
+104.65.66.140
+104.65.64.173
+104.65.85.218
+104.65.83.61
+104.65.80.111
+104.65.85.244
+2.21.2.58
+2.21.2.89
+2.23.168.7
+5.160.13.85
+81.12.72.218
+2.23.168.96
+92.123.106.96
+2.23.168.144
+2.23.168.213
+2.23.168.254
+2.23.170.80
+37.255.133.30
+104.103.65.50
+63.141.252.203
+142.54.178.211
+185.137.25.214
+185.200.232.40
+185.200.232.41
+185.200.232.49
+141.193.213.21
+2.16.1.152
+2.16.6.28
+2.16.1.147
+2.16.10.162
+2.16.1.210
+2.16.1.192
+2.16.16.182
+2.16.6.32
+2.16.16.185
+2.16.106.18
+2.16.106.34
+2.16.106.28
+23.58.223.195
+96.16.248.176
+23.55.110.48
+2.19.126.93
+184.51.252.151
+23.207.210.79
+184.24.77.25
+184.24.57.13
+104.108.238.182
+23.211.236.207
+23.64.59.26
+2.23.167.144
+23.67.129.53
+2.22.112.199
+96.16.249.6
+2.19.51.178
+23.219.79.77
+96.16.248.179
+23.210.253.96
+96.16.248.174
+23.62.230.166
+104.69.222.105
+23.207.210.77
+23.220.72.69
+2.19.181.9
+2.21.173.64
+2.21.173.50
+104.108.237.97
+184.86.103.142
+184.51.96.7
+2.21.243.203
+95.101.35.66
+184.86.103.223
+184.26.3.238
+23.55.96.244
+23.36.15.81
+96.16.248.147
+2.22.144.29
+2.23.167.185
+2.22.144.12
+96.16.248.146
+162.159.81.132
+23.215.2.5
+96.17.206.201
+23.215.2.22
+23.47.124.153
+2.17.100.145
+2.22.144.39
+23.55.163.80
+2.23.167.26
+173.223.29.67
+23.65.117.219
+23.65.124.104
+184.85.137.131
+184.30.157.239
+184.86.103.13
+104.80.48.203
+2.21.173.25
+23.50.104.247
+2.23.97.234
+96.16.248.145
+2.18.190.7
+96.16.248.151
+23.214.144.96
+🛜 با و بدون SNI تست کنید....
+♾ حجم نامحدود 
+🔻دانلود شیر و خورشید جدید
+📝آموزش تصویری اتصال شیروخورشید
+📱دانلود شیروخورشید آیفون
+🔰 آموزش بصورت فیلم
+
+💠 @V2ray_Alpha
+
+بهترین تحلیلگر ایران در تمام دوران
+
+🔴بچه ها اگه بخاطر جنگ دوباره نتتون قطع شد اینجارو داشته باشین :
+
+https://t.me/+7xQYcy7ORhUyYzU0
+
+عضو شین رایگان بزارم
+
+یه زن ۲۷ ساله که معتقد بود با خوردن فقط میوه میتونه یه زندگی سالم داشته باشه امروز فوت کرد.
+@beiten
+
+vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+
+Cᴏᴜɴᴛʀʏ: #India(🇮🇳)
+Pɪɴɢ: 70ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+هعی...
+
+باراک راوید: جمهوری‌اسلامی به میانجیگر قطری اعلام کرد که حاضر نیست تو نشست سه‌جانبه با آمریکا شرکت کنه!
+@blackKHABAR
+
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Join+Telegram:@Farah_VPN 🇱🇻
+
+Cᴏᴜɴᴛʀʏ: #Latvia(🇱🇻)
+Pɪɴɢ: 414ms 🟡
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+🇮🇷 کانفیگ ویتوری برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)⭐️
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#@meliproxyy
+
+vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#@meliproxyy
+
+vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#@meliproxyy
+
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#@meliproxyy
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@meliproxyy
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@meliproxyy
+
+📲 دانلود و آموزش استفاده(کلیک کن) 👉
+
+
+⚡️ فیلترینگ شدید و نت ملی رو باهاش دور بزن !
+
+✅ @V2rayNGVPN
+
+🔐سرور جدید🔐
+
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-de.dostup-est.info:8444?security=reality&encryption=none&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=77e934f68f02ab4c#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40MARAMBASHI%20%F0%9F%92%9B
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#%40MARAMBASHI%20%F0%9F%92%9B
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40MARAMBASHI%20%F0%9F%92%9B
+
+
+همه اپراتورها📶📶📶🛜🛜🛜
+
+✅ @MARAMBASHI ✅
+
+📶proxy 📶
+🛜🛜🛜🛜🛜
+tg://proxy?server=49.13.32.73&port=8443&secret=dd104462821249bd7ac519130220c25d09
+Test Vasle? ✅
+🖤👇👇👇🖤
+🫆 @cllubvpn
+
+اکثر نتا وصل
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#@meliproxyy
+
+vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#@meliproxyy
+
+vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#@meliproxyy
+
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#@meliproxyy
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@meliproxyy
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@meliproxyy
+
+اسرائیل هیوم: ارتش امریکا داره یه پایگاه بزرگ نزدیک مرز غزه میسازه
+@blackKHABAR
+
+انجام طلسمات سفلی عبری یهودی اسلامی عربی هندی 
+کارگشایی
+بازگشت معشوق
+شکستن طلسمات کهن
+بخت گشایی
+ازدواج با معشوق
+محبت زوجین
+عزیز شدن خلقی
+زبانبندخلقی
+رزق و روزی
+ارتقاء و مقام و ثروت
+دفع سحر و نحوسات
+سحر و ابطال سحر
+سرکتاب
+موکل گیری
+
+لینک کانال 👇👇👇
+
+@doatelsmfaLroz1
+
+سیستم فیلترنت حال حاضر معلوم نیست به چه شکلی کار میکنه اما اگه این دو تا براتون وصل شدن فوق العاده پر سرعتن🔥
+
+پروکسی مخصوص دانلود ۱ 
+
+پروکسی مخصوص دانلود ۲
+
+@PinkProxy
+
+🚨 کارشناس شبکه i24 اسرائیل :
+آمریکا تو چند ساعت آینده حمله‌های بیشتری به هدف‌های گسترده‌تری تو ایران انجام می‌ده؛ حتی شدیدتر از دیشب
+
+Join For More ⬇️
+https://t.me/NetMeli9
+https://t.me/NetMeli9
+
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+
+Cᴏᴜɴᴛʀʏ: #Germany(🇩🇪)
+Pɪɴɢ: 102ms 🟢
+
+Jᴏɪɴ »» @Farah_VPN - @Farah_Proxy
+
+😢 هنوز درگیر قطعی و وصلی ؟
+
+😍 بخر و خودتو راحت کن!!!!
+
+✅ @Ads_Central_Net
+✅ @Ads_Central_Net
+
+کافیه به تنها آیدی اختصاصی فروش ما «آدرس بالا» پیام بدی 🚀🚀
+
+مرور خاطرات :
+
+پروکسی 
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+🔥 @iRoProxy
+
+جدید
+
+https://t.me/proxy?server=148.251.55.109&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+🛡🛡 Free Config
+🛡 کانفیگ رایگان
+
+💻  آموزش نحوه اتصال کلیک کنید.
+🔑 با یک ضربه کانفیگ کپی می‌شود.
+
+🤩 🤩🤩🤩🤩🤩🤩
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#Free%24%2070%20%40Outline_Vpn
+vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#Free%24%2071%20%40Outline_Vpn
+vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#Free%24%2072%20%40Outline_Vpn
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJGcmVlJCA3MyBAT3V0bGluZV9WcG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#Free%24%2074%20%40Outline_Vpn
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#Free%24%2075%20%40Outline_Vpn
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Free%24%2076%20%40Outline_Vpn
+
+🛡 🚀  اتصال پایدار ✅ جهت تهیه  اشتراک اختصاصی VIP بدون قطعی اینجا کلیک کنید.
+
+⚡️ توجه : کانال ما هیچ ربات یا اکانتی غیر از سه نشانی زیر ندارد.
+✅ @Outline_Vpn
+✅ @Vip_Price_List
+✅ @Ads_Central_Net
+
+🛡 v2RayTun, v2rayNg, v2box, FoXray, NapsternetV, Streisand
+
+🩸🩸🩸🩸❓🩸🅰️🩸🩸🩸
+
+https://t.me/proxy?server=087.248.129.235&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=087.248.129.253&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=087.248.129.233&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=087.248.129.232&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+@proxy_kafee
+
+حس می‌کنم خواهران منصوریان وقتی دیگه خیلی عصبانی شن می‌رن رو دوش هم و تبدیل به یک ابر خواهر منصوریان می‌شن.
+
+پروکسی | پروکسی
+پروکسی | پروکسی | پروکسی
+
+📸 @Proxy_MeIi
+
+🔴رضا پهلوی:
+ملت ما امروز بهای سیاست‌های حکومتی رو میپردازه که اولویتش نه ایران و ایرانی بلکه تروریست‌های خارجیه.
+رژیمی که به جای ساختن ایران، کشور را به جنگ، فساد، فقر و ویرانی کشونده.
+درنتیجه‌ی ماجراجویی‌های این رژیم، ده‌ها هزار خانواده ایرانی داغدار فرزندانی هستن که جون خودشونو برای آزادی ایران فدا کردن.
+میلیون‌ها ایرانی زیر فشار اقتصادی روزگار میگذرونن.
+رنج شمارا میبینم و صدای شمارو میشنوم و همونطور که تو این سال‌ها کنارتون موندم تا روز آزادی ایران کنار شمایی که هزینه دادید، زندان رفتید و جون خودتونو فدا کردید اما تسلیم نشدید، میمونم.
+شجاعت، پایداری و فداکاری میلیون‌ها ایرانی زمینه‌ساز تحولاتی شد که بسیاری از چهره‌های سرکوب و جنایت تو جمهوری‌اسلامی از جمله خامنه‌ای رو از صفحه‌ی روزگار محو کرد.
+این دستاور متعلق به همه اونایی هست که ایستادن و جان دادن و مردمی که از بازپسگیری مطالبه‌ی خودشون عقب ننشستن.
+امروز چهره‌ی واقعی این رژیم رو ببینیم، رژیمی که ماه‌هاست رهبر قبلی خودشو خاک نکرده و توان رونمایی یا حتی انتشار صدایی از رهبر مفقودش رو هم نداره.
+رژیمی که از درون گرفتار اختلافات، بی‌اعتمادی، آشفتگی و بحران تصمیم‌گیریه.
+رژیمی که از مردم، اینترنت و حقیقت میترسه.
+نمایش‌های خیابونی این رژیم نه نشانه‌ی اقتدار بلکه اعتراف به ترس و ضعفه.
+اعتراف به این موضوع که جمهوری‌اسلامی مشروعیت خودشو از دست داده و دیگه حتی به وفاداری حامیان خودش هم اطمینان نداره.
+رژیم ولایت فقیه که زمانی خودش رو حکومت دینی مینامید امروز بیشتر از هر زمان دیگه‌ای به یه حاکمیت نظامی تبدیل شده که بقای خودشو تو سرکوب، ارعاب و خشونت میبینه اما تاریخ این حقیقت رو بارها ثابت کرده که هیچ حکومتی که بر ترس، سرکوب و دروغ بنا شده باشه در برابر ملتی که آزادی میخواد، دوام نمیاره.
+و ملتی که یه بار بر ترس غلبه کنه هرگز به گذشته برنمیگرده.
+هم‌میهنانم؛ ما هنوز به پایان راه نرسیدیم، راه آزادی هیچ ملتی آسون نبوده.
+ملت‌هایی که تاریخ رو تغییر دادن، از دل سخت‌ترین روزها عبور کردن.
+ملت ایران هم از این آزمون عبور خواهد کرد.
+ممکنه مسیر پیش‌رو طولانی، فرساینده و ناامید کننده به نظر برسه اما آینده رو ملت‌هایی میسازن که تو سخت‌ترین لحظات امید خودشونو از دست نمیدن.
+امروز وظیفه‌ی ما تداوم ایستادگی و حفظ امید ملی، حفظ همبستگی ملی و حفظ اعتماد متقابل و بلوغ ملیه.
+نباید اجازه بدیم اختلاف‌افکنی، حاشیه‌سازی و عملیات روانی رژیم مارو از همدیگه دور کنه.
+ایرانِ ما امروز بیش از هر زمان دیگه‌ای به اتحاد نیروهای ملی نیاز داره، چه با حمایت خارجی چه بدون اون، سرنوشت ایران تو دستای ماست.
+ما از این رژیم فرسوده و درمانده نیرومندتریم.
+ما از مزدورانی که برای نمایش‌های تبلیغاتی به خیابون فرستاده میشن مصمم‌تر و استوارتریم.
+ایرتنِ ما تشنه‌ی زندگیی، امنیت و ثبات و آزادی و عدالت، رفاه و پیشرفته و آن روز خواهد رسید.
+روزی که هیچ مادری نگران بازنگشتن فرزندش نباشه.
+روزی که جوان ایرانی آینده‌ی خودش رو نه در مهاجرت بلکه تو ساختن میهن جسجتو کنه
+روزی که دوباره صدای آرامش، پیشرفت و امید تو سراسر ایران شنیده بشه.
+من به ایران و روح ایرانی ایمان دارم.
+من به ملت ایران و اراده‌ی ایرانی ایمان دارم.
+من ایمان دارم که ملت ایران بعد از سالها رنج و سرکوب، کشور خودش رو پس خواهد گرفت.
+و من ایمان دارم که پیروزی از آن ملت ایران خواهد بود.
+پاینده ایران.
+﻿
+➣ @Merlin_ViP | اینترنت آزاد
+
+خاورمیانه:
+
+پروکسی |
+پروکسی | پروکسی | پروکسی |
+پروکسی | پروکسی | پروکسی |
+
+🆔 @Ivaproxy
+
+🚀 استارز آنلاین | مرجع خرید خدمات تلگرام
+
+⭐️ | خرید استارز تلگرام
+💎 | خرید پرمیوم تلگرام 
+🚀 |  خرید ارز تون کوین
+
+📌 فعال‌سازی تمامی خدمات تلگرام به‌صورت کاملاً قانونی
+📌 انجام خودکار سفارشات بدون نیاز به اپراتور
+📌 تحویل آنی و ۲۴ ساعته خدمات
+
+🖥 | دارای #اینماد معتبر
+
+😀 ربات جهت خرید خدمات👇
+
+⚡️ | @StarzOnline_Bot
+
+✈️ | @StarzOnline | استارز آنلاین
+
+📶 High Speed MTProto Proxy
+
+
+       ▶️ Connect Proxy ◀️
+
+       ▶️ Connect Proxy ◀️
+
+
+⚡@MTProTel⚡
+
+🔥 کانفیگ نپسترنت پرسرعت
+🌐 مخصوص تمام اپراتورها 🚀
+
+🔝 حتما از سرورها پینگ بگیرید و به پرسرعت‌ترین متصل بشید
+📤 ریکشن و فوروارد فراموش نشه ❤️
+
+📚 آموزش‌ + برنامه 📱 | 🚀 ترفند
+
+#VPN #Napsternet #کانفیگ
+🔗 منبع
+
+@iProxyChannel    |     PROXY
+
+⚡️ 𝙉𝙚𝙬 𝙈𝙏𝙋𝙧𝙤𝙩𝙤 𝙋𝙧𝙤𝙭𝙮! 
+    
+    〰️〰️〰️〰️〰️〰️〰️
+     #proxy #پروکسی #mtproto
+    🔥 More: @Proxy_fier
+
+🌳New MTProto Proxy!
+Server: Unknown
+Port: 443
+Secret: ddd451f808fd60ed2c45f11d38fdbc87c5
+• More: @TelMTProto
+
+Server: tg.nowabst.net
+Port: 853
+Secret: eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275
+@ProxyMTProto
+
+پروکسی تست 1 
+پروکسی تست 2 
+پروکسی تست 3
+پروکسی تست 4
+
+🆔 @V2RayNG_Master پروکسی تلگرام
+
+🔵  پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام-  چهار‌شنبه ۲۰ خرداد- ۱۴۰۵ 
+
+🤖 بات تلگرامی بشکن برای دریافت پروکسی‌های شادوساکس،  📶 و فیلترشکن و پاسخ به پرسش‌های شما
+
+Poland
+https://t.me/proxy?server=relay.nowabst.net&port=853&secret=7hn0rSbGWJH9Is87elnw0QNhZHMueDUucnU
+
+Poland
+https://t.me/proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275
+
+Germany
+https://t.me/proxy?server=116.202.55.32&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
+
+Belgium
+https://t.me/proxy?server=2.26.146.6&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
+
+Germany
+https://t.me/proxy?server=194.213.118.26&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+United States of America
+https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+
+United States of America
+https://t.me/proxy?server=out.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
+
+Finland
+https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+Germany
+https://t.me/proxy?server=protocol.fast-mt.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+Netherlands (Kingdom of the)
+https://t.me/proxy?server=rec.nolags.pw&port=443&secret=dd0603553657b3f54b6bff0d3759e8db1d
+
+برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید ➡
+
+✍  Beshkan
+
+آکسیوس به نقل از منبع آگاه:
+دلیل عصبانیت ترامپ این بوده که عباس عراقچی قرار بود چهار روزه خبر مذاکره رو بیاره ولی دو هفته طولش داد
+@blackKHABAR
+
+📶  پروکسی‌های امن V2Ray 🔐 و شادوساکس برای عبور از سد فیلترینگ در تلگرام- چهارشنبه ۲۰ خرداد - ۱۴۰۵ 
+
+ 🤖 بات تلگرامی بشکن برای دریافت پروکسی‌های شادوساکس،  📶 و فیلترشکن و پاسخ به پرسش‌های شما
+
+ 🟢🔴برای دسترسی و کپی پروکسی‌ها، از بات بشکن استفاده کنید.
+
+South Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%20
+
+Australia
+vless://30ac5a8b-5022-43c0-b0c2-11b9a98a986e@3.106.54.135:57001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618&sid=b2dd66706eb2&type=tcp&headerType=none#%20
+
+Australia
+vless://b64ced11-143e-4ded-a985-a8de25461061@3.27.234.120:51808?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=XHnwfyEySdx57QT_8P_7vDVFzdLHO4tO9BQOsHxxlEk&sid=8810c789eea55c28&type=tcp&headerType=none#%20
+
+United States of America
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLA0KICAicG9ydCI6ICIxODAwMCIsDQogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+
+Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%20
+
+United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%20
+
+United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%20
+
+Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%20
+
+United States of America
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiNjcuMjIwLjk1LjMiLA0KICAicG9ydCI6ICIxODAwMCIsDQogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
+Netherlands (Kingdom of the)
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%20
+
+📣 توضیح یک نکته مهم:
+پروکسی‌هایی که برای عبور از فیلترینگ و دسترسی به اینترنت جهانی منتشر می‌شوند، معمولاً بر بستر ابزارهایی مانند MTProto و Shadowsocks عمل می‌کنند و در شرایط عادی می‌توانند محدودیت‌های اعمال‌شده روی برخی سرویس‌ها را دور بزنند.
+
+با این حال، در زمان‌هایی که اتصال ایران به اینترنت جهانی به‌صورت گسترده یا کامل قطع می‌شود و دسترسی کاربران به شبکه بین‌المللی به حداقل می‌رسد، این پروکسی‌ها نیز ممکن است امکان دور زدن شبکه داخلی (اینترانت) را نداشته باشند.
+
+✍  Beshkan
+
+یه روزی میفهمی دنیا باهات لج نکرده بود، فقط داشت بهت یاد میداد چطور رها و بی نیاز بشی.
+
+پروکسی | پروکسی | پروکسی
+
+─—・──・──
+🔥@PMCPROXY
+
+🔴 جواد خیابانی از صداوسیمای میلی ایران خداحافظی کرد. (بازنشسته شد)
+
+میگه اسمم جمشید بود تا الان گولتون میزدم خخخ
+
+پروکسی | پروکسی | پروکسی
+پروکسی | پروکسی
+
+@PinkProxy
+
+vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xODgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRUNUQ0owREYiLCAicG9ydCI6IDQ0MywgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAicnVzc2lhLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJydXNzaWEuY29tIiwgImlkIjogIjRiMDVhYmY1LWM2OGQtNGZmYy05MTVmLWFkZDJmMzc4NmRjYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAicG9ydCI6IDIwOTUsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiMDIxOHR3MDIuZmFuczgueHl6IiwgImFpZCI6IDIsICJob3N0IjogIjAyMTh0dzAyLmZhbnM4Lnh5eiIsICJpZCI6ICI1YzcwZGE1ZC1lNjQxLTNiZjgtYjdkYy01YmFiZDg0M2ZmM2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgInBvcnQiOiA4MCwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiY3UuYXdzbGNuLmluZm8iLCAiYWlkIjogMCwgImhvc3QiOiAiY3UuYXdzbGNuLmluZm8iLCAiaWQiOiAiOTNlYzcyNjEtMWM5Mi00MTQ5LTg0OGEtMjZiNmZiOWZjNGNlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDI1MjI4LCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+⚠️ Warning: Proxy may not work on all network operators.
+⏱ Please wait a few seconds after starting a proxy.
+🔰All the apps you need to use this proxy on different platforms
+
+Share the proxy with your friends to support the channel ✊🕊❤️‍🔥
+
+
+🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴
+
+💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!
+
+💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال
+
+🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!
+
+⚡️ تست فوری مخصوص عمده‌فروشان
+
+🎟 خرید و تست رایگان کانفیگ:
+
+➖➖➖➖➖➖➖➖
+#WomenLifeFreedom
+#MahsaAmini 
+#FREEDOM
+➖➖➖➖➖➖➖➖
+@Hope_Net 🤞
+
+vmess://eyJhZGQiOiAiUGFyc1Zkcy5pciIsICJhaWQiOiAwLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+vmess://eyJhZGQiOiAiMzEuMjIuMTA5LjIwOSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzY3OTNkMmMtMGQ1YS00YTg0LTg4NjItZjljOTNlOWFmNWI1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi80YmE5OWEzOWI5MGZhYS8iLCAicG9ydCI6IDQ0MywgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjIuMTkwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hnY2Vmb21uIiwgInBvcnQiOiAyMDk1LCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+vmess://eyJhZGQiOiAiNDcuMjQzLjI1MS4yNDAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImQ5ZDk0ZGNjLWY0NjEtNDFkMi04ZjMwLTQ1NzE2YjkwMjQ3NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxNDM4MiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+⚠️ Warning: Proxy may not work on all network operators.
+⏱ Please wait a few seconds after starting a proxy.
+🔰All the apps you need to use this proxy on different platforms
+
+Share the proxy with your friends to support the channel ✊🕊❤️‍🔥
+
+
+🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴
+
+💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!
+
+💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال
+
+🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!
+
+⚡️ تست فوری مخصوص عمده‌فروشان
+
+🎟 خرید و تست رایگان کانفیگ:
+
+➖➖➖➖➖➖➖➖
+#WomenLifeFreedom
+#MahsaAmini 
+#FREEDOM
+➖➖➖➖➖➖➖➖
+@Hope_Net 🤞
+
+پرواز ۶ هواپیمای سوخت‌رسان نیروی هوایی آمریکا بر فراز خلیج فارس و اسرائیل 
+@blackKHABAR
+
+شورت بریم الان ؟ طلا رو
+
+💡 راه میانبر: این کادر رو اصلاً باز نکن! کل پیام رو کپی کن، برو تو v2ray، دکمه مثبت (➕) رو بزن و Import configs from clipboard رو انتخاب کن. همه‌ی کانفیگ‌ها یه جا میاد تو برنامه‌ت! ✌️
+
+vless://45fb480c-64ac-482b-9ed7-813bf0f16d6b@188.114.97.6:443?mode=auto&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=WwW.XpErSiAn.CoM&fp=chrome&type=xhttp&allowInsecure=0&sni=WwW.XpErSiAn.CoM#🏍️ @v2ray_Dalghak
+
+vless://6f4fca88-d44e-46bb-9fc0-38fc8d06177d@uwu.blueknightnet.qzz.io:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=&path=%2Fapi-v1&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🪄 @v2ray_Dalghak
+
+vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.112.71.172:7443?security=reality&encryption=none&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#🥇 @v2ray_Dalghak
+
+vless://8aebc38a-32a7-42ad-8fa7-a7771183c9cd@51.250.108.162:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cdp.x5.ru&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🤡 @v2ray_Dalghak
+
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality#🤹‍♂️ @v2ray_Dalghak
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#✈️ @v2ray_Dalghak
+
+vmess://eyJhZGQiOiAiMTA0LjI1LjM1LjIyNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNlXHVkZTg0IEB2MnJheV9EYWxnaGFrIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTA0LjI1LjUyLjE4NyIsICJhaWQiOiAxLCAiaG9zdCI6ICIxMDQuMjUuNTIuMTg3IiwgImlkIjogIjRjZGIwMTZmLWYxNGUtMzBiMy05N2Q2LTQ1M2M3NDFhNWM4MCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveTQ3NSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZDBiIEB2MnJheV9EYWxnaGFrIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vmess://eyJhZGQiOiAiMTA0LjI2LjAuOTUiLCAiYWlkIjogMCwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2VcdWRkMzkgQHYycmF5X0RhbGdoYWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAib2JkaWkuY2ZkIn0=
+
+vmess://eyJhZGQiOiAiMTA0LjI3LjEuMTI5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzczEzODg5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRjY2YgQHYycmF5X0RhbGdoYWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
+✅🤡دلقک ۲۴ ساعته کانفیگ v2ray میفرسته. حجم کانفیگ ها زیاده چون سرعت فیلترینگ شدیده. کافیه چند وقتی یبار همه‌ی پیام هارو کپی و اد کنید توی نرم افزار. بعد تست بگیرید و اونایی که کار میکنن رو نگه دارید
+    @v2ray_Dalghak
